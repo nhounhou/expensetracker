@@ -1,2 +1,2 @@
 # expensetracker
-MERN expense tracker
+simple MERN application to track your expense
